@@ -20,6 +20,8 @@ Currently building **Kogorta**, behavioral CI with AI personas.
 | [kogorta-showcase](https://github.com/Nasferatuss/kogorta-showcase) | Behavioral CI: AI personas exercise a product the way real cohorts would, before users do. |
 | [karpathy-memory-kit](https://github.com/Nasferatuss/karpathy-memory-kit) | Persistent memory for Claude Code — LLM wiki, memory compiler and an Obsidian vault, in one command. |
 | [morphogenesis-ga](https://github.com/Nasferatuss/morphogenesis-ga) | Genetic-algorithm experiments in morphogenesis. |
+| [AI-agents-enterprise](https://github.com/Nasferatuss/AI-agents-enterprise) | Reference platform for building, evaluating and operating AI agents — tools, evals, tracing, governance. |
+| [yandex_praktikum](https://github.com/Nasferatuss/yandex_praktikum) | Data-analyst portfolio: 13 EDA, statistics and business-metrics projects. |
 
 ## Contact
 
