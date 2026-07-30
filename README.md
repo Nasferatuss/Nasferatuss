@@ -17,9 +17,9 @@ Currently building **Kogorta**, behavioral CI with AI personas.
 | Project | What it is |
 |---|---|
 | [infcore-llm-gateway](https://github.com/Nasferatuss/infcore-llm-gateway) | OpenAI-compatible gateway over llama.cpp — multi-model routing, lazy backend supervision, RBAC, audit, Prometheus. Fully offline. |
-| [kogorta-showcase](https://github.com/Nasferatuss/kogorta-showcase) | Behavioral CI: AI personas exercise a product the way real cohorts would, before users do. |
+| [chatterecon](https://github.com/Nasferatuss/chatterecon) | Do LLM agents evolve a cheaper shared shorthand when talking costs tokens? Pre-registered study — the emergent protocol Pareto-dominates on frontier models and transfers to held-out games. |
 | [karpathy-memory-kit](https://github.com/Nasferatuss/karpathy-memory-kit) | Persistent memory for Claude Code — LLM wiki, memory compiler and an Obsidian vault, in one command. |
-| [morphogenesis-ga](https://github.com/Nasferatuss/morphogenesis-ga) | Genetic-algorithm experiments in morphogenesis. |
+| [morphogenesis-ga](https://github.com/Nasferatuss/morphogenesis-ga) | Neural cellular automata that grow target shapes, evolved by a genetic algorithm — a from-scratch neuroevolution sandbox. |
 | [AI-agents-enterprise](https://github.com/Nasferatuss/AI-agents-enterprise) | Reference platform for building, evaluating and operating AI agents — tools, evals, tracing, governance. |
 | [yandex_praktikum](https://github.com/Nasferatuss/yandex_praktikum) | Data-analyst portfolio: 13 EDA, statistics and business-metrics projects. |
 
