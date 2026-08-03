@@ -4,8 +4,6 @@ Data & AI Engineer. I build the infrastructure layer under LLM products —
 inference gateways, data pipelines and the observability that makes them
 operable.
 
-Currently building **Kogorta**, behavioral CI with AI personas.
-
 ## Stack
 
 **Data** PostgreSQL · ClickHouse · Python · SQL · dbt-style modelling
