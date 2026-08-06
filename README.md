@@ -18,7 +18,7 @@ operable.
 | [infcore-llm-gateway](https://github.com/Nasferatuss/infcore-llm-gateway) | OpenAI-compatible gateway over llama.cpp — multi-model routing, lazy backend supervision, RBAC, audit, Prometheus. Fully offline; wraps the engine without editing it. |
 | [chatterecon](https://github.com/Nasferatuss/chatterecon) | Do LLM agents evolve a cheaper shared shorthand when talking costs tokens? Pre-registered study — the emergent protocol Pareto-dominates on frontier models and transfers to held-out games. |
 | [morphogenesis-ga](https://github.com/Nasferatuss/morphogenesis-ga) | Neural cellular automata that grow target shapes, evolved by a genetic algorithm — a from-scratch neuroevolution sandbox with a frozen reproducibility baseline. |
-| [yandex_praktikum](https://github.com/Nasferatuss/yandex_praktikum) | Data-analyst portfolio: 13 EDA, statistics and business-metrics projects. |
+| [yandex-praktikum](https://github.com/Nasferatuss/yandex-praktikum) | Data-analyst portfolio: 13 EDA, statistics and business-metrics projects. |
 | [karpathy-memory-kit](https://github.com/Nasferatuss/karpathy-memory-kit) | Persistent memory for Claude Code — LLM wiki, memory compiler and an Obsidian vault, in one command. |
 
 ## Contact
